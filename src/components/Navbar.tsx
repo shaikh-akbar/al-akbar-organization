@@ -52,9 +52,11 @@ export const Navbar = () => {
         </nav>
 
         <div className="hidden md:block">
-          <Button variant="hero" size="lg">
-            Get a Quote
-          </Button>
+          <a href="#contact">
+            <Button variant="hero" size="lg">
+              Get a Quote
+            </Button>
+          </a>
         </div>
 
         {/* Mobile Menu Toggle */}

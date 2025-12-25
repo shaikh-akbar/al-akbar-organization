@@ -55,18 +55,18 @@ export const Footer = () => {
                 className="flex items-center gap-3 text-muted-foreground hover:text-foreground transition-colors"
               >
                 <Mail className="w-4 h-4 text-primary" />
-                <span>hello@devforge.com</span>
+                <span>akbar000785@gmail.com</span>
               </a>
               <a
                 href="tel:+1234567890"
                 className="flex items-center gap-3 text-muted-foreground hover:text-foreground transition-colors"
               >
                 <Phone className="w-4 h-4 text-primary" />
-                <span>+1 (234) 567-890</span>
+                <span>+91 9082670335</span>
               </a>
               <div className="flex items-center gap-3 text-muted-foreground">
                 <MapPin className="w-4 h-4 text-primary" />
-                <span>San Francisco, CA</span>
+                <span>Ozone Bizz Center</span>
               </div>
             </div>
           </div>
